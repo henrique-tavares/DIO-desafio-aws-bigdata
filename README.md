@@ -4,4 +4,4 @@ Resultado após concluir o desafio: Criando seu Ecossistema de Big Data na Nuvem
 
 ## Desafio
 
-Contar a quantidade de palavras distintas no arquivo ```sherlock.py```
+Contar a quantidade de palavras distintas no arquivo ```sherlock.txt```
